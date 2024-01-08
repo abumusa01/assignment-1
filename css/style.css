@@ -1,0 +1,18 @@
+img{
+    width: 30%;
+    align-self: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.menu{
+    display: flex;
+    gap: 30px;
+}
+
+.banner{
+    height: 400px;
+    background-color: aquamarine;
+}
